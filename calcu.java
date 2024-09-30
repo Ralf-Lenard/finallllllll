@@ -7,7 +7,7 @@ public class calcu{
         int b = 19;
         int c = a + b;
 
-        System.out.print("hellloooooo worlddd" + c );
+        System.out.print("hellloooooooooo worlddd" + c );
 
 
     }
